@@ -4,7 +4,6 @@ authors = ["fce "]
 version = "1.1.1-DEV"
 
 [deps]
-Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 CSVFiles = "5d742f6a-9f54-50ce-8119-2520741973ca"
